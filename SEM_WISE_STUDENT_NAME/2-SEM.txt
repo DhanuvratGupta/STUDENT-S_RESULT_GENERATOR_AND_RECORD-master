@@ -1,0 +1,14 @@
+STUDENT NAME:- rahul gupta
+STUDENT ID:- 01
+SEM:-3-SEM
+FATHER's NAME:- dinesh gupta
+PH-NO:-9680928875
+E-MAIL ADDERSS:-dhanuvrat.dg.1122@gmail.com
+-----------------------------------------------------------------------
+STUDENT NAME:- ALOK GUPTA
+STUDENT ID:- 05
+SEM:-2-SEM
+FATHER's NAME:- RAKESH GUPTA
+PH-NO:-9829643733
+E-MAIL ADDERSS:-rakesh@GMAIL.COM
+-----------------------------------------------------------------------

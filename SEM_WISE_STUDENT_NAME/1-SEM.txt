@@ -1,0 +1,14 @@
+STUDENT NAME:- rahul gupta
+STUDENT ID:- 010
+SEM:-1-SEM
+FATHER's NAME:- manoj gupta
+PH-NO:-6023659654
+E-MAIL ADDERSS:-dhanuvrat.dg.1122@gmail.com
+-----------------------------------------------------------------------
+STUDENT NAME:- ayush jain
+STUDENT ID:- 03
+SEM:-1-SEM
+FATHER's NAME:- ramlal jain
+PH-NO:-8965236956
+E-MAIL ADDERSS:-ayush@gmail.com
+-----------------------------------------------------------------------

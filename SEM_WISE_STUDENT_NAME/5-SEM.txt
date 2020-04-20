@@ -1,0 +1,21 @@
+STUDENT NAME:- RYAN JAIN
+STUDENT ID:- 01
+SEM:-3-SEM
+FATHER's NAME:- KIRAN JAIN
+PH-NO:-9079572643
+E-MAIL ADDERSS:-RAYAN.JA.@121GMAIL.COM
+-----------------------------------------------------------------------
+STUDENT NAME:- KALI SAIN
+STUDENT ID:- 01
+SEM:-3-SEM
+FATHER's NAME:- PHALAD SAIN
+PH-NO:-7969563240
+E-MAIL ADDERSS:-RAHUL.DH.1212@GMAL.COM
+-----------------------------------------------------------------------
+STUDENT NAME:- KULDEEP GUPTA
+STUDENT ID:- 05
+SEM:-5-SEM
+FATHER's NAME:- SUNIL GUPTA
+PH-NO:-9632569875
+E-MAIL ADDERSS:-KULDDEP@GMAIL.COM
+-----------------------------------------------------------------------

@@ -1,0 +1,21 @@
+STUDENT NAME:- KOSAL SUKHLA
+STUDENT ID:- 5
+SEM:-6-SEM
+FATHER's NAME:- MANISH SUKHLA
+PH-NO:-6367980101
+E-MAIL ADDERSS:-kosal.sa.3232@gmail.com
+-----------------------------------------------------------------------
+STUDENT NAME:- ALOK GUPTA
+STUDENT ID:- 02
+SEM:-6-SEM
+FATHER's NAME:- DINESH GUPTA
+PH-NO:-8965325698
+E-MAIL ADDERSS:-ALOK@GMAIL.COM
+-----------------------------------------------------------------------
+STUDENT NAME:- sahil khan
+STUDENT ID:- 03
+SEM:-6-SEM
+FATHER's NAME:- mohammad khan
+PH-NO:-8963256998
+E-MAIL ADDERSS:-sahil@gmail.com
+-----------------------------------------------------------------------
