@@ -1,0 +1,20 @@
+			**CIA-2 result**
+			----------------
+
+NAME:-VARUN DHAVAN					ID:-54
+
+YEAR:-2-YEAR						SEM:-3-SEM
+
+COLLEGE:-S.S.JAIN SUBODH PG COLLEGE
+
+SUBJECT					TOTAL		OBTAINED MARKS
+-----------------------------------------------------------------------
+DATABASE MANEGMENT SYSTEM		30		26
+ADVANCE JAVA PROGRAMMING		30		21
+OPERATING SYSTEM FUNDAMENTALS		30		20
+SYSTEM ANALYSIS & DESIGN		30		29
+-----------------------------------------------------------------------
+TOTAL					120		96
+-----------------------------------------------------------------------
+PERCENTAGE						80
+-----------------------------------------------------------------------

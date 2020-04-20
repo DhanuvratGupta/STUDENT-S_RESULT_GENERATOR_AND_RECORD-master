@@ -1,0 +1,20 @@
+			**CIA-2 result**
+			----------------
+
+NAME:-SALMAN KHAN					ID:-45
+
+YEAR:-2-YEAR						SEM:-3-SEM
+
+COLLEGE:-S.S.JAIN SUBODH PG COLLEGE
+
+SUBJECT					TOTAL		OBTAINED MARKS
+-----------------------------------------------------------------------
+DATABASE MANEGMENT SYSTEM			30		25
+ADVANCE JAVA PROGRAMMING		30		29
+OPERATING SYSTEM FUNDAMENTALS		30		24
+SYSTEM ANALYSIS & DESIGN		30		21
+-----------------------------------------------------------------------
+TOTAL					120		99
+-----------------------------------------------------------------------
+PERCENTAGE						82.5
+-----------------------------------------------------------------------
