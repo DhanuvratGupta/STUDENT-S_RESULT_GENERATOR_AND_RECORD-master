@@ -21,6 +21,7 @@ public:
     {
         ofstream student;
         //student is
+        
         cout<<"ENTER STUDENT ID:- ";
         cin>>stu_id;
         //student sem
